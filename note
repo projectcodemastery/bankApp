@@ -1,0 +1,9 @@
+
+Bank App
+
+Overview of the app: 
+
+1.displays a welcome message to the user
+
+2. displays "menu" to the user and executes accordingly. 
+	Menu contains: check balance, deposit, withdraw, check previous transaction, exit
